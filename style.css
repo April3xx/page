@@ -1,6 +1,9 @@
 body{
   background-color: rgb(33, 33, 33);
 }
+div.hidden{
+  display:none;
+}
 button {
   position: relative;
   padding: 10px 20px;
