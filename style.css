@@ -4,6 +4,9 @@ body{
 div.hidden{
   display:none;
 }
+h1 {
+  color: white;
+}
 button {
   position: relative;
   padding: 10px 20px;
